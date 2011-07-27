@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://94.31.169.103/</loc>
+		<lastmod>2009-08-14T22:05:41+06:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>http://94.31.169.103/news/</loc>
+		<lastmod>2009-08-14T22:05:41+06:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://94.31.169.103/news/1</loc>
+		<lastmod>2009-08-14T22:05:41+06:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.4</priority>
+	</url>
+	<url>
+		<loc>http://94.31.169.103/news/3/view.html</loc>
+		<lastmod>2009-08-14T22:05:41+06:00</lastmod>
+		<changefreq>lal</changefreq>
+		<priority>0.2</priority>
+	</url>
+</urlset>
