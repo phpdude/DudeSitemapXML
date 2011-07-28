@@ -2,7 +2,7 @@
 header("Content-type: text/html; charset=utf-8");
 define("PAGE_START", microtime(true));
 
-require_once './../libs/DudeSitemapXML.php';
+require_once './../libs/dude/sitemapxml.php';
 
 $items = array();
 $items[] = new DudeSiteMapUrlEntry("/news/");
